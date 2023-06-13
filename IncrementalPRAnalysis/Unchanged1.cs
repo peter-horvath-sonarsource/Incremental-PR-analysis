@@ -13,6 +13,7 @@ public class Test
 
     public int AnotherUnusedMethod(bool a, bool b)
     {
+        
         string unusedVar = null;
 
         if (a)
