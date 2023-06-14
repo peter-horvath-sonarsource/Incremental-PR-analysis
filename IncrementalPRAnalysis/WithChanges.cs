@@ -9,6 +9,7 @@ public class WithChanges
     public int AnotherUnusedMethod(bool a, bool b)
     {
         string unusedVar = null;
+        
 
         if (a)
         {
